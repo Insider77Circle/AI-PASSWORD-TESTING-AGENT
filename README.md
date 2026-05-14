@@ -1,5 +1,9 @@
 # AI Password Attack Orchestrator - Defensive Research Repository
 
+![Demo](demo.gif)
+
+
+
 ## ⚠️ LEGAL DISCLAIMER & RESEARCH PURPOSE
 
 **THIS REPOSITORY IS FOR DEFENSIVE CYBERSECURITY RESEARCH AND EDUCATIONAL PURPOSES ONLY**
