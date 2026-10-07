@@ -1,4 +1,4 @@
-# AI Password Attack Orchestrator - Defensive Research Repository
+# AI Password Attack Orchestrator > Brute force is dead. The new password attack learns. This repo is the research behind that claim: a technical analysis of how AI turns password attacks from blind enumeration into adaptive campaigns that learn from every failure — plus the detection rules and countermeasures to stop them. No working attack code. Paper + defenses only.
 
 ![Demo](demo.gif)
 
