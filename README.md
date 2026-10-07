@@ -198,7 +198,7 @@ When sharing this research:
 AI Password Attack Orchestrator: Technical Capability Analysis & Innovation Assessment
 Research Date: January 5, 2026
 Classification: Defensive Security Research
-Repository: https://github.com/Insider77Circle/ai-password-orchestrator
+Repository: https://github.com/Insider77Circle/AI-PASSWORD-TESTING-AGENT
 ```
 
 ### Research Integrity
